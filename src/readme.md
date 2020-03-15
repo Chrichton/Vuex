@@ -1,3 +1,5 @@
-Frage: 
-warum macht store.fetchEvents eine mutation SET_EVENTS?
-es wird doch gar nichts im store geändert.
+Terminal1: 
+json-server --watch db.json
+
+Terminal2:
+npm run serve
