@@ -10,6 +10,9 @@
      computed: {
        userName() {
          return this.$store.state.user.name
+       },
+       userID() {
+         return this.$store.state.user.id
        }
      }
   }
