@@ -71,6 +71,24 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 79688,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Working?",
+      "description": "Is it working?",
+      "location": "Hamburg",
+      "date": "2020-03-15T18:07:00.000Z",
+      "time": "19:00",
+      "attendees": []
     }
   ]
 }
